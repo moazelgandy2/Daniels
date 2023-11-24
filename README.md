@@ -37,4 +37,4 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 
 ## License
 
-This is the author URI [Autho](http://themeforest.net/user/creativotheme).
+This is the author URI [Author](http://themeforest.net/user/creativotheme).
