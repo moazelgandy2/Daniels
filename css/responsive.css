@@ -1,0 +1,88 @@
+@media screen and (max-width: 991px) {
+  .tab-content > #all-tab-pane.active {
+    grid-template-columns: 1fr 1fr !important;
+    grid-template-rows: 1fr 1fr 1fr !important;
+    grid-template-areas:
+      "graphic1 design1"
+      "brand1 graphic2"
+      "dsgin2-graphic brand2" !important;
+  }
+
+  .tab-content > #brand-tab-pane.active {
+    grid-template-columns: 1fr 1fr !important;
+    grid-template-rows: 1fr !important;
+    grid-template-areas: "brand1 brand2" !important;
+  }
+
+  .tab-content > #design-tab-pane.active {
+    grid-template-columns: 1fr 1fr !important;
+    grid-template-rows: 1fr !important;
+    grid-template-areas: "design1 dsgin2-graphic" !important;
+  }
+
+  .tab-content > #graphic-tab-pane.active {
+    grid-template-columns: 1fr 1fr !important;
+    grid-template-rows: 1fr 1fr !important;
+    grid-template-areas:
+      "graphic1 dsgin2-graphic"
+      "graphic2 none" !important;
+  }
+  #input2 {
+    padding-left: 0 !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .position-md-absolute {
+    position: absolute;
+    top: 69px;
+    left: 0;
+    right: 0;
+  }
+
+  .navbar-collapse {
+    background: white !important;
+  }
+
+  .navbar-collapse a {
+    color: black !important;
+    font-weight: 300;
+  }
+
+  .tab-content > #all-tab-pane.active {
+    grid-template-columns: 1fr !important;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr !important;
+    grid-template-areas:
+      "graphic1"
+      "design1"
+      "brand1"
+      "graphic2"
+      "dsgin2-graphic"
+      "brand2" !important;
+  }
+
+  .tab-content > #brand-tab-pane.active {
+    grid-template-columns: 1fr !important;
+    grid-template-rows: 1fr 1fr !important;
+    grid-template-areas:
+      "brand1"
+      "brand2" !important;
+  }
+
+  .tab-content > #design-tab-pane.active {
+    grid-template-columns: 1fr !important;
+    grid-template-rows: 1fr 1fr !important;
+    grid-template-areas:
+      "design1"
+      "dsgin2-graphic" !important;
+  }
+
+  .tab-content > #graphic-tab-pane.active {
+    grid-template-columns: 1fr !important;
+    grid-template-rows: 1fr 1fr 1fr 1fr !important;
+    grid-template-areas:
+      "graphic1"
+      "dsgin2-graphic"
+      "graphic2" !important;
+  }
+}
