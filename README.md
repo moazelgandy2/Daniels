@@ -17,7 +17,7 @@ This project is a clone of the Portfolio Onepage Template, aimed at providing a 
 - **Customization:** Allows for easy modification of content, images, and styles.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/portfolio-onepage-template-clone.git`
+1. Clone the repository: `git clone https://github.com/moazelgandy2/Daniels.git`
 2. Navigate to the project directory.
 3. Open the `index.html` file in a web browser.
 
