@@ -9,8 +9,9 @@ This project is a clone of the Portfolio Onepage Template, aimed at providing a 
 1. [Features](#features) 🔥
 2. [Installation](#installation) ⚙️
 3. [Usage](#usage) 🚀
-4. [Contributing](#contributing) 🤝
-5. [License](#license) 📝
+4. [Live View](#live-view) 👀
+5. [Contributing](#contributing) 🤝
+6. [License](#license) 📝
 
 ## Features
 
@@ -30,6 +31,10 @@ This project is a clone of the Portfolio Onepage Template, aimed at providing a 
 - Customize the content: Replace placeholder text, images, and links with your own.
 - Modify the CSS: Adapt the styles and layout as needed to suit your preferences.
 - Test across devices: Ensure the website looks good and functions properly on various devices.
+
+## Live View
+
+You can view the live version of this project [here](https://moazelgandy2.github.io/Daniels).
 
 ## Contributing
 
